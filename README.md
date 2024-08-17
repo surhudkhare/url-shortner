@@ -21,7 +21,7 @@ A simple URL shortener application built with Flask and Redis. This project demo
 3. Install the dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    conda install --file requirements.txt
     ```
 
 4. Run the Flask application:
