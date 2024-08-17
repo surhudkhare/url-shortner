@@ -7,14 +7,14 @@ A simple URL shortener application built with Flask and Redis. This project demo
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/yourusername/url_shortener.git
+    git clone https://github.com/surhudkhare/url_shortener.git
     cd url_shortener
     ```
 
 2. Set up a virtual environment and activate it:
 
     ```bash
-    conda create -n url_shortener python=3.8
+    conda create -n url_shortener python=3.11
     conda activate url_shortener
     ```
 
